@@ -10,3 +10,6 @@ The app works through the following steps:
 •	When the user is about to buy or eat packaged food, they can first use the app to obtain the nutritional information and assess it with regards to their personal health data. The app will subsequently inform the user whether the food is suitable or has too much of a certain component.
 
 (For the OCR, we used an API, https://ocr.space/ )
+
+Here's our user interface design: https://www.figma.com/file/A39DfvgDHPizAITTHyc1yJ/Untitled?node-id=0%3A1
+
