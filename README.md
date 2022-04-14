@@ -6,7 +6,9 @@ The app that focuses on the prevention of heart disease, by helping the user und
 
 The app works through the following steps:
 •	An AI algorithm is trained over a pre-existing dataset that contains the health data of anonymous individuals, and their corresponding likelihood to develop a heart disease. In our prototype, we have used the K-Nearest Neighbors algorithm, which is a simple yet effective way to take into account various health factors to predict the tendency of an individual to develop a heart disease
+
 •	Companies can input health data for all its employees from annual health check-ups, or the user can choose to input their health data themselves. If the company has already uploaded their employees’ data, then an employee can access their health data by providing the necessary identification
+
 •	When the user is about to buy or eat packaged food, they can first use the app to obtain the nutritional information and assess it with regards to their personal health data. The app will subsequently inform the user whether the food is suitable or has too much of a certain component.
 
 (For the OCR, we used an API, https://ocr.space/ )
